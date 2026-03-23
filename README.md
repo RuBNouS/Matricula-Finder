@@ -14,6 +14,7 @@ Os 4 formatos suportados em Portugal:
  - 1992 a 2005:      `00-00-AA` (Números - Números - Letras)
  - 2005 a 2020:      `00-AA-00` (Números - Letras - Números)
  - 2020 ao presente: `AA-00-AA` (Letras - Números - Letras)
+
 (Nota: O programa sabe que blocos de letras e números nunca se misturam).
 
 Como Executar:
